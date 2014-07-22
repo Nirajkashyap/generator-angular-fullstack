@@ -32,7 +32,7 @@
     "generator-ng-component": ">=0.0.4"
   },
   "peerDependencies": {
-    "yo": ">=1.2.0"
+    "yo": ">=1.0.0"
   },
   "devDependencies": {
     "chai": "^1.9.1",
